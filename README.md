@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://sweetysnail1011.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-0085CA?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://sweetysnail1011.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-0085CA?style=flat-square&logo=&logoColor=white"/></a>
 <!--   <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
