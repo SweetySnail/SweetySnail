@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Infra
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
@@ -15,7 +15,7 @@ FrontEnd
 
 BackEnd
 <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?&style=for-the-badge&logo=c++&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 
 <!--
